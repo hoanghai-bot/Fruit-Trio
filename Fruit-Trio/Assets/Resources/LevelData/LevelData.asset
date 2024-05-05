@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8cf02fe5df2f6804db1e4043e9f666b9, type: 3}
+  m_Name: LevelData
+  m_EditorClassIdentifier: 
+  ListItemDataOnMaps:
+  - {fileID: 11400000, guid: 4a9a1def16601e8488a9faf56cec5415, type: 2}
+  - {fileID: 11400000, guid: 329c3f851b12eff4f83d7e8d695ef341, type: 2}
+  - {fileID: 11400000, guid: 3e17ad260d9da9149be7159e5b996159, type: 2}
+  - {fileID: 11400000, guid: 49cba67446ea15743a16480b2b8145d8, type: 2}
+  - {fileID: 11400000, guid: 302e5bca46a7d40499b75c0513ee83e9, type: 2}
+  - {fileID: 11400000, guid: b7196948d776ea44c9d3b276b51c3cd7, type: 2}
+  - {fileID: 11400000, guid: de8534c49bd0d4240941753d247f74e3, type: 2}
+  - {fileID: 11400000, guid: a226817e4f5ad784b9ba5cec12069a49, type: 2}
+  - {fileID: 11400000, guid: 5fc35ad39c567b346b4d42dfce008c75, type: 2}
+  - {fileID: 11400000, guid: efd62d4f565c82a469b67d4f108d0575, type: 2}
+  FloorCount: 3
+  TileCount: 99
+  dataFromTilemap: []

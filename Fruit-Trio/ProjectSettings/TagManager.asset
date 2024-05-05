@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor1
+    uniqueID: 939870955
+    locked: 0
+  - name: Floor2
+    uniqueID: 2429232201
+    locked: 0
+  - name: Floor3
+    uniqueID: 376097985
+    locked: 0
+  - name: Floor4
+    uniqueID: 900010957
+    locked: 0
+  - name: Floor5
+    uniqueID: 2928994191
+    locked: 0
+  - name: Floor6
+    uniqueID: 2006358463
+    locked: 0
+  - name: Floor7
+    uniqueID: 1281484755
+    locked: 0
+  - name: Floor8
+    uniqueID: 3432112219
+    locked: 0
+  - name: Floor9
+    uniqueID: 3795832113
+    locked: 0
+  - name: Hover
+    uniqueID: 2810821879
+    locked: 0
+  - name: Slot
+    uniqueID: 4152478305
+    locked: 0
+  - name: Move
+    uniqueID: 2983244319
+    locked: 0
+  - name: UI
+    uniqueID: 1222707973
+    locked: 0
+  - name: Tut
+    uniqueID: 2210888505
+    locked: 0
+  - name: TutHover
+    uniqueID: 1027719595
+    locked: 0
+  - name: TutMove
+    uniqueID: 1196763589
+    locked: 0
+  - name: TutHand
+    uniqueID: 1755497427
+    locked: 0
